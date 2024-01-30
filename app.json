@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hanghub",
-    "slug": "hanghub",
+    "name": "Bunky",
+    "slug": "Bunky",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,11 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "37a767b2-f8ac-4fe4-895b-3092b1fc4720"
-      }
     }
   }
 }
